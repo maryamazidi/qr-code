@@ -27,6 +27,7 @@ body {
   position: absolute;
   top: 120px;
   right: 50px;
+  
 }
 
 .qr{
@@ -38,6 +39,7 @@ body {
     flex-direction: column;
     flex-wrap: wrap;
     align-content: space-between;
+    box-shadow: 3px 3px 50px rgb(109, 109, 109);
 }
 
 img{
